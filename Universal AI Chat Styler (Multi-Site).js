@@ -35,7 +35,7 @@ const CONFIG = {
 const SITES = {
     'chatgpt.com': {
         name: 'ChatGPT',
-        styleURL: 'https://raw.githubusercontent.com/yfjuu4/ai-chat-styles/refs/heads/main/ChatGpt%20style.css',
+        styleURL: 'https://raw.githubusercontent.com/yfjuu3/universal-styler-AI-Sites/refs/heads/main/ChatGPT%20Style.css',
         styleID: 'chatgpt-enhanced-styles',
         enabledKey: 'chatgpt_styles_enabled',
         needsReadyCheck: true,
