@@ -45,7 +45,7 @@ const SITES = {
     },
     'claude.ai': {
         name: 'Claude AI',
-        styleURL: 'https://raw.githubusercontent.com/yfjuu4/ai-chat-styles/refs/heads/main/Claude%20AI%20style.css',
+        styleURL: 'https://raw.githubusercontent.com/yfjuu3/universal-styler-AI-Sites/refs/heads/main/Claude%20AI%20style.css',
         styleID: 'claude-enhanced-styles',
         enabledKey: 'claude_styles_enabled',
         needsReadyCheck: false,
